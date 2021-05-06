@@ -17,6 +17,9 @@ let recordedNotes = [];
 // TODO
 //  Create two arrays (songOne and songTwo) that hold notes in the form "G,3" or "A,5"
 
+let songOne = ["G,3", "A,4" , "C,5"];
+let songTwo = ["D,3", "A,5" , "F,5"];
+
 $(document).ready(function () {
 
     // Create the grid of keyboard keys
